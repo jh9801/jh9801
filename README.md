@@ -6,9 +6,9 @@
 </a>
 
 helloworld?
-<details>
   <summary>
     반갑습니다 한영입니다.
+   
   <details>
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 ... 
@@ -18,4 +18,6 @@ helloworld?
 
 <img src="https://img.shields.io/badge/Adobe Photoshop-52BDEB?style=flat-square&logo=Adobe Photoshop&logoColor=black"/>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=black"/>
+</details>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
